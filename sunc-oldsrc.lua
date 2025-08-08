@@ -1031,3 +1031,4 @@ local function fankshan()
 	print(heki(next));
 end
 fankshan();
+warn("Sunc test finish")
